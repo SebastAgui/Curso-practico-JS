@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+#configuaracion de visual studio code
+.Curso-practico-JS
